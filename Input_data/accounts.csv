@@ -1,0 +1,51 @@
+Account_ID,Customer_ID,Account_Type,Opening_Date,Branch,Account_Status
+ACC-6EA02566,CUST-0001,Savings,2019-12-01,Bangalore,Active
+ACC-E79930CF,CUST-0002,Fixed Deposit,2024-01-19,Bangalore,Closed
+ACC-9BD00144,CUST-0003,Current,2012-07-24,Delhi,Inactive
+ACC-2C63A323,CUST-0004,Savings,2023-06-27,Mumbai,Inactive
+ACC-FB6E287F,CUST-0005,Salary Account,2011-08-16,Kolkata,Closed
+ACC-637A4991,CUST-0006,Current,2022-02-21,Mumbai,Inactive
+ACC-78F8B51D,CUST-0007,Recurring deposit account,2010-07-01,Bangalore,Inactive
+ACC-30752863,CUST-0008,Salary Account,2013-10-18,Hyderabad,Active
+ACC-960B53E3,CUST-0009,Fixed Deposit,2018-12-30,Chennai,Inactive
+ACC-087BFF63,CUST-0010,Salary Account,2015-10-28,Bangalore,Active
+ACC-03BE4A56,CUST-0011,Current,2023-01-11,Mumbai,Active
+ACC-044425D5,CUST-0012,Fixed Deposit,2019-04-26,Bangalore,Closed
+ACC-C612A44F,CUST-0013,Recurring deposit account,2018-05-07,Delhi,Active
+ACC-DB562443,CUST-0014,Fixed Deposit,2011-05-02,Hyderabad,Active
+ACC-550447E2,CUST-0015,Current,2018-03-15,Chennai,Active
+ACC-D0F0314E,CUST-0016,Fixed Deposit,2022-05-11,Kolkata,Active
+ACC-4104685E,CUST-0017,Current,2022-12-03,Chennai,Inactive
+ACC-50AF2C00,CUST-0018,Savings,2021-05-23,Mumbai,Inactive
+ACC-0907EF23,CUST-0019,Fixed Deposit,2023-08-21,Kolkata,Active
+ACC-30F1737D,CUST-0020,Fixed Deposit,2017-07-08,Delhi,Inactive
+ACC-041403CB,CUST-0021,Fixed Deposit,2024-07-11,Kolkata,Inactive
+ACC-F03FB6A2,CUST-0022,Savings,2017-01-31,Delhi,Closed
+ACC-D02B2E70,CUST-0023,Salary Account,2010-05-10,Chennai,Inactive
+ACC-986E6BA6,CUST-0024,Current,2022-10-19,Mumbai,Closed
+ACC-828827D5,CUST-0025,Savings,2010-05-31,Kolkata,Active
+ACC-3CD09E49,CUST-0026,Savings,2012-09-04,Hyderabad,Active
+ACC-676DBA2B,CUST-0027,Savings,2010-06-15,Kolkata,Active
+ACC-4D7F8327,CUST-0028,Current,2012-03-27,Mumbai,Closed
+ACC-C729BF02,CUST-0029,Fixed Deposit,2011-12-04,Bangalore,Active
+ACC-ECAC0DF5,CUST-0030,Fixed Deposit,2023-04-28,Hyderabad,Active
+ACC-1470EB4C,CUST-0031,Salary Account,2022-08-07,Hyderabad,Active
+ACC-23EBAAC2,CUST-0032,Fixed Deposit,2012-11-20,Kolkata,Active
+ACC-D4B98BF4,CUST-0033,Salary Account,2010-10-30,Bangalore,Active
+ACC-364CDB36,CUST-0034,Savings,2010-10-02,Bangalore,Active
+ACC-D7A2B3F2,CUST-0035,Salary Account,2011-02-27,Chennai,Active
+ACC-B4BA8036,CUST-0036,Recurring deposit account,2024-02-05,Hyderabad,Closed
+ACC-7F14C067,CUST-0037,Salary Account,2014-07-01,Hyderabad,Inactive
+ACC-53C63963,CUST-0038,Recurring deposit account,2017-05-23,Hyderabad,Closed
+ACC-EA772835,CUST-0039,Current,2020-06-30,Delhi,Active
+ACC-30A6C5F0,CUST-0040,Fixed Deposit,2024-04-26,Chennai,Inactive
+ACC-03EF9E4B,CUST-0041,Fixed Deposit,2019-05-24,Kolkata,Inactive
+ACC-8DBC7A56,CUST-0042,Current,2023-05-03,Bangalore,Active
+ACC-996FF91E,CUST-0043,Recurring deposit account,2016-11-27,Chennai,Active
+ACC-7596A73B,CUST-0044,Current,2012-02-11,Bangalore,Active
+ACC-1760D99C,CUST-0045,Current,2022-06-08,Bangalore,Active
+ACC-E41995CB,CUST-0046,Fixed Deposit,2019-07-21,Chennai,Inactive
+ACC-9280103B,CUST-0047,Current,2021-07-24,Bangalore,Active
+ACC-A7287795,CUST-0048,Current,2024-10-05,Mumbai,Active
+ACC-68F42586,CUST-0049,Salary Account,2013-03-21,Mumbai,Inactive
+ACC-F19B5F89,CUST-0050,Recurring deposit account,2019-02-03,Kolkata,Closed

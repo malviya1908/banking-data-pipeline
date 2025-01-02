@@ -1,0 +1,51 @@
+Customer_ID,Name,Credit_Score,Loan_Status,Date_of_Birth,Date_Joined,Address,Phone_Number,Email
+CUST-0001,Eesha Sathe,769,Not Applied,2001-11-01,2024-07-19,"130, Pai Nagar, Khammam 514621",+91 7423976326,eeshasathe7773@outlook.com
+CUST-0002,Osha Loke,415,Approved,1988-07-08,2017-06-24,"00/71, Chandra Marg, Ghaziabad 134079",+91 5156837862,oshaloke6740@outlook.com
+CUST-0003,Faqid Dixit,535,Rejected,1962-09-01,2016-03-17,"35, Sheth Marg, Imphal 686057",+91 2956139896,faqiddixit7599@outlook.com
+CUST-0004,Aashi Pall,344,Approved,1982-05-12,2022-11-03,"62, Mandal Street, Mangalore-052655",+91 3143013353,aashipall6801@yahoo.com
+CUST-0005,Libni Wable,555,Pending,1985-10-22,2023-02-10,"H.No. 533, Wason Nagar, Amaravati-965225",+91 6396638490,libniwable6811@hotmail.com
+CUST-0006,Aryan Banerjee,511,Approved,1955-05-17,2018-02-28,"H.No. 48, Dalal Path, Kolhapur 754361",+91 6382825050,aryanbanerjee4262@yahoo.com
+CUST-0007,Jalsa Shukla,342,Pending,1956-06-13,2017-06-21,"20/15, Anne Ganj, Ujjain 195600",+91 2270579867,jalsashukla2380@outlook.com
+CUST-0008,Ekbal Chaudhary,607,Approved,1980-02-08,2024-11-30,"H.No. 269, Radhakrishnan Marg, Phusro 186079",+91 9536269288,ekbalchaudhary1329@yahoo.com
+CUST-0009,Shivansh Ratta,715,Rejected,2005-09-16,2015-12-10,"H.No. 28, Johal Ganj, Khora -050780",+91 3007310789,shivanshratta3582@gmail.com
+CUST-0010,Lila Zacharia,320,Pending,2003-07-27,2022-10-03,"H.No. 08, Kapadia Path, Chinsurah 845434",+91 7612679821,lilazacharia4109@outlook.com
+CUST-0011,Raagini Goel,546,Approved,1996-07-01,2018-03-08,"37/87, Dayal Marg, Udaipur-517996",+91 9606890217,raaginigoel361@yahoo.com
+CUST-0012,Eta Kaur,562,Rejected,1996-04-12,2022-01-10,"75, Biswas Road, Danapur-423641",+91 3139501113,etakaur4545@hotmail.com
+CUST-0013,Dayamai Din,311,Rejected,2002-05-17,2018-06-04,"22, Rama Nagar, Rajahmundry 534330",+91 6119326477,dayamaidin5123@rediffmail.com
+CUST-0014,Jagvi Prabhakar,451,Pending,1998-12-23,2018-10-07,"64/13, Kuruvilla Path, Bellary 660572",+91 1738745756,jagviprabhakar9574@outlook.com
+CUST-0015,Bhavna Banik,891,Pending,1970-01-21,2023-11-27,"00/813, Comar Street, Meerut 410598",+91 4419944359,bhavnabanik1307@rediffmail.com
+CUST-0016,Abhimanyu Pillay,653,Not Applied,1986-07-10,2020-09-19,"H.No. 479, Thakur Chowk, Dehri-255073",+91 8255093144,abhimanyupillay1234@rediffmail.com
+CUST-0017,Gagan Grover,409,Approved,1989-04-11,2018-05-26,"78/88, Sen Street, Rewa-554697",+91 3197805210,gagangrover1309@hotmail.com
+CUST-0018,Wridesh Samra,867,Not Applied,1963-12-21,2017-08-09,"98/37, Kapadia Marg, Durg 070927",+91 8498749796,wrideshsamra6712@hotmail.com
+CUST-0019,Ekaraj Kulkarni,667,Rejected,1976-09-24,2016-11-19,"01/19, Wable Ganj, Saharanpur-036257",+91 6032168726,ekarajkulkarni7807@gmail.com
+CUST-0020,Libni Morar,425,Not Applied,1999-06-26,2019-05-10,"039, Narasimhan Ganj, Gandhidham-758448",+91 8075482507,libnimorar6217@gmail.com
+CUST-0021,Rohan Shan,810,Rejected,1957-08-30,2017-10-02,"62/039, Mannan Circle, Chandigarh-184615",+91 9004156298,rohanshan7250@yahoo.com
+CUST-0022,Ucchal Prabhakar,300,Rejected,1988-08-01,2017-06-01,"34/06, Taneja Ganj, Bhiwani-636256",+91 5456956464,ucchalprabhakar8542@rediffmail.com
+CUST-0023,Varenya Gour,877,Approved,1992-02-20,2019-11-15,"661, Bhagat Path, Hajipur 159234",+91 0433598026,varenyagour5381@hotmail.com
+CUST-0024,Oviya Vyas,866,Pending,1965-09-09,2022-07-18,"H.No. 39, Mannan Street, Unnao-526539",+91 2612783655,oviyavyas155@rediffmail.com
+CUST-0025,Ayush Ravel,657,Rejected,1998-09-12,2018-03-17,"52, Chad Circle, Bhimavaram 403449",+91 1795077131,ayushravel7637@outlook.com
+CUST-0026,Yasti Bumb,815,Rejected,1985-04-09,2018-08-27,"17, Varkey Path, Pudukkottai-328667",+91 1554570500,yastibumb1232@gmail.com
+CUST-0027,Avni Mitter,520,Not Applied,1958-01-06,2018-01-02,"H.No. 126, Kala Path, Saharanpur 265915",+91 2881416494,avnimitter8599@rediffmail.com
+CUST-0028,Aarna Behl,689,Not Applied,1978-08-10,2022-11-14,"53/123, Bora Zila, Udupi 575791",+91 6623855904,aarnabehl17@gmail.com
+CUST-0029,Rajata Patla,350,Not Applied,2001-01-31,2020-06-07,"H.No. 04, Patla Ganj, Shimla-941478",+91 4204221835,rajatapatla5358@outlook.com
+CUST-0030,Finn Misra,420,Not Applied,1986-09-08,2023-07-12,"56/91, Ahluwalia, Ajmer 195420",+91 4019562622,finnmisra5812@yahoo.com
+CUST-0031,Alka Pandit,618,Pending,1957-12-13,2023-11-09,"617, Mangat Street, Giridih 014580",+91 8696037883,alkapandit6444@rediffmail.com
+CUST-0032,Dipta Khurana,820,Pending,2000-10-03,2022-04-01,"03, Goel Marg, Phagwara-944136",+91 2303472520,diptakhurana8659@rediffmail.com
+CUST-0033,Vanya Sood,508,Not Applied,1956-12-22,2017-01-16,"H.No. 88, Merchant Circle, Vasai-Virar 238212",+91 9225480168,vanyasood6970@gmail.com
+CUST-0034,Vidhi Chaudhuri,481,Rejected,1983-04-24,2024-04-17,"22/506, Balakrishnan Street, Udaipur 230441",+91 8607154280,vidhichaudhuri9101@yahoo.com
+CUST-0035,Suhani Chad,480,Rejected,2004-02-07,2018-11-30,"H.No. 836, Keer, Bhimavaram-224363",+91 4572995758,suhanichad5040@hotmail.com
+CUST-0036,Alka Vora,697,Approved,1967-12-19,2016-03-10,"323, Krishnamurthy Zila, Malda-434562",+91 0812539958,alkavora2259@yahoo.com
+CUST-0037,Qasim Oza,464,Approved,1970-04-05,2018-05-09,"00/91, Parsa Marg, Morena 450983",+91 5319968043,qasimoza8942@hotmail.com
+CUST-0038,Meera Date,348,Not Applied,2000-08-14,2022-04-04,"H.No. 490, Parmer Circle, Junagadh 159830",+91 3000433167,meeradate6883@rediffmail.com
+CUST-0039,Aayush Puri,785,Pending,1970-07-18,2018-06-22,"56, Sodhi Road, Mango 938912",+91 5088991048,aayushpuri1039@outlook.com
+CUST-0040,Vrishti Goswami,716,Rejected,1983-02-04,2017-12-27,"67/055, Rastogi Circle, Amroha 430065",+91 1612864899,vrishtigoswami860@hotmail.com
+CUST-0041,Darika Bawa,432,Pending,1989-10-22,2017-10-18,"09/819, Saxena Marg, Gopalpur-135826",+91 1965509158,darikabawa9226@outlook.com
+CUST-0042,Faraj Garde,654,Pending,1993-05-22,2019-01-01,"H.No. 287, Chad Marg, Tiruchirappalli 996222",+91 2012011821,farajgarde2339@rediffmail.com
+CUST-0043,Ayaan Chahal,408,Not Applied,1988-07-27,2018-11-06,"H.No. 10, Brar Ganj, Delhi-301850",+91 3399944663,ayaanchahal6820@rediffmail.com
+CUST-0044,Max Sundaram,428,Approved,1982-01-20,2017-09-27,"09/18, Varty Zila, Mathura-590156",+91 1747541142,maxsundaram5937@rediffmail.com
+CUST-0045,Forum Ghosh,541,Approved,1954-06-20,2020-07-24,"71/921, Thakur Zila, Nadiad 996269",+91 9297635688,forumghosh4545@yahoo.com
+CUST-0046,Chaitaly Manne,856,Approved,1966-06-24,2023-07-20,"446, Lalla Path, Siwan 653232",+91 1756221898,chaitalymanne3286@yahoo.com
+CUST-0047,Qabil Chana,423,Rejected,1977-05-16,2016-01-19,"04/36, Date Nagar, Gandhidham-548480",+91 2746390013,qabilchana3361@gmail.com
+CUST-0048,Anvi Sankaran,408,Not Applied,1983-08-21,2020-04-21,"H.No. 900, Bir, Bhusawal 150963",+91 7579037940,anvisankaran2338@gmail.com
+CUST-0049,Bhavani Thakkar,783,Approved,1967-04-01,2023-10-19,"35/86, Palan, Karawal Nagar 986565",+91 2670024757,bhavanithakkar2632@rediffmail.com
+CUST-0050,Hardik Raval,392,Approved,1983-02-11,2015-05-16,"337, Iyengar Nagar, Nagpur 945018",+91 0699223844,hardikraval806@gmail.com
