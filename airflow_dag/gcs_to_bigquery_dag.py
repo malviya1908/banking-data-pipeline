@@ -9,11 +9,11 @@ from airflow.providers.google.cloud.operators.bigquery import BigQueryInsertJobO
 
 
 # variables section
-project_id = "synthetic-nova-438808-k6"
-bucket_name = "dataproc_bucket_prac"
+project_id = "project_id"
+bucket_name = "your_bucket_name"
 location = "asia-south1"
-RAW_DATASET_NAME = "synthetic-nova-438808-k6.Raw_Dataset"
-TRANSFOMED_DATASET_NAME = "synthetic-nova-438808-k6.Transformed_dataset"
+RAW_DATASET_NAME = "project_id.dataset_id_1"
+TRANSFOMED_DATASET_NAME = "project_id.dataset_id_2"
 TABLE_NAME_1 = "accounts"
 TABLE_NAME_2 = "customer"
 TABLE_NAME_3 = "cust_acc"
